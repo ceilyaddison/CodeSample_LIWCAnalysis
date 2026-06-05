@@ -27,7 +27,7 @@ from statsmodels.stats.multitest import multipletests
 # In[5]:
 
 
-INPUT_CSV = "data/IraqLIWCCombined.csv"
+INPUT_CSV = "IraqLIWCCombined.csv"
 
 # Core LIWC summary dimensions selected for analysis
 CORE_VARS = ["Analytic", "Clout", "Authentic", "Tone", "moral", "power"]
