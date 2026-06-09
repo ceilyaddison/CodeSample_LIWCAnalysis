@@ -1,5 +1,7 @@
 Python Code Sample by Ceily R. Addison
 
+THESIS/WRITING SAMPLE INCLUDED IN REPO
+
 This project analyzes linguistic patterns in public facing government documents from the lead-up to the Iraq War (2001–2003). Using LIWC-22 output scored across 536 primary source documents, the analysis tests whether linguistic profiles differ meaningfully across institutional sources, time periods, and the later-determined accuracy of WMD claims.
 
 Data is drawn primarily from the Fund for Independence in Journalism's Center for Public Integrity dataset, which documents public statements by eight senior Bush administration officials between September 11, 2001 and September 11, 2003. The variable name "deception" is used, however this speculative language is not representative of my personal opinion, so I recode to "accurate" and "disputed". Fewer than 30 documents are from other sources listed in IraqLIWCCombined.csv. These documents will have missing accuracy codings!
